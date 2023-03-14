@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bona Nova', serif;
+}
+
+section {
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.big-box {
+    width: 960px;
+    height: 360px;
+    background-color: #333333;
+}
+
+.little-box_area {
+    width: 290px;
+}
+
+.little-box {
+    width: 290px;
+    height: 180px;
+    background-color: #333333;
+    border: 4px solid whitesmoke;
+    border-spacing: 30px;
+}
+
+.contain {
+    margin: 0 auto;
+    width: 77%;
+}
+
+.my-icon-arrow {
+    font-size: 8px;
+}
+
+.point {
+    cursor: pointer;
+}
+
+h6 {
+    font-weight: 600;
+    letter-spacing: 0.1px;
+}
